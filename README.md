@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋, I'm Kavinda Maduranga as Fovero 👈(ﾟヮﾟ👈)</h1>
-<h3 align="center">Under MainMaintenance👷‍♂️🏗️🚧</h3>
+<h3 align="center">Under Maintenance👷‍♂️⛑🏗️🚧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="foverokavindz" /> </p>
 <table style=" border: 0px solid black; border-radius:50px;">
   <tr>
-    <td><p><a href="https://app.daily.dev/FoveroMW"><img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=6df" width="400" alt="Kavinda Madhuranga's Dev Card"/></a></p></td>
+    <td><p><a href="https://app.daily.dev/FoveroMW"><img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=4mx" width="400" alt="Kavinda Madhuranga's Dev Card"/></a></p></td>
     <td>
       
 - 🔭 I’m currently working on [E - Commerce project](https://github.com/Attire-Avenue-Online-Store)
