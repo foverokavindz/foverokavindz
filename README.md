@@ -1,14 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-<h1 align="center">Hello there 👋, I'm Kavinda Maduranga</h1>
+<h1 align="center">Hi👋, I'm Kavinda Maduranga as Fovero 👈(ﾟヮﾟ👈)</h1>
 <h3 align="center">Under MainMaintenance👷‍♂️🏗️🚧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="foverokavindz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foverokavindz" alt="foverokavindz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kavindzmw" target="blank"><img src="https://img.shields.io/twitter/follow/kavindzmw?logo=twitter&style=for-the-badge" alt="kavindzmw" /></a> </p>
-
+<table style=" border: 0px solid black; border-radius:50px;">
+  <tr>
+    <td><p><a href="https://app.daily.dev/FoveroMW"><img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=6df" width="400" alt="Kavinda Madhuranga's Dev Card"/></a></p></td>
+    <td>
+      
 - 🔭 I’m currently working on [E - Commerce project](https://github.com/Attire-Avenue-Online-Store)
 
 - 🌱 I’m currently learning **MERN stack**
@@ -28,6 +26,12 @@
 - 📄 Know about my experiences [https://github.com/foverokavindz](https://github.com/foverokavindz)
 
 - ⚡ Fun fact **Just simple 😂**
+    </td>
+  </tr>
+</table>
+
+<p align="left"> <a href="https://twitter.com/kavindzmw" target="blank"><img src="https://img.shields.io/twitter/follow/kavindzmw?logo=twitter&style=for-the-badge" alt="kavindzmw" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +54,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foverokavindz&show_icons=true&locale=en" alt="foverokavindz" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foverokavindz&" alt="foverokavindz" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foverokavindz&show_icons=true&locale=en&layout=compact" alt="foverokavindz" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foverokavindz" alt="foverokavindz" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foverokavindz&" alt="foverokavindz" /></p>
