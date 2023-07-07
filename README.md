@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **MERN, Java, Python, C#, Js gaps**
+- 💬 Ask me about **MERN, Java, Python, C#, Js**
 
 - 📫 How to reach me **kavindamadhuranga74@gmail.com**
 
@@ -57,7 +57,7 @@
 <hr>
 
 <h3 align="left">🚀 Connect me :</h3>
-<p align="left">
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codepen.io/https://codepen.io/fovero-mw" target="blank"
     ><img
       align="center"
