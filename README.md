@@ -26,7 +26,7 @@
 <br />
 <p align="center" width="70%">
         <a href="https://app.daily.dev/FoveroMW">
-        <img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=9if" width="400" alt="Kavinda Madhuranga's Dev Card"/></a>
+        <img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=9if" width="360" alt="Kavinda Madhuranga's Dev Card"/></a>
 </p>
 <br />
 <p align="center">
@@ -56,32 +56,35 @@
 
 <hr />
 
-<h4 align="left">🚀 Connect with me on :</h4>
+<h3 align="left">Connect via:</h3>
 <p align="left">
   <a href="https://codepen.io/https://codepen.io/fovero-mw" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       alt="https://codepen.io/fovero-mw"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://dev.to/https://dev.to/foverokavindz" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
       alt="https://dev.to/foverokavindz"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://twitter.com/kavindzmw" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="kavindzmw"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/kavinda-madhuranga-1302a71b7/"
     target="blank"
@@ -89,25 +92,28 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/kavinda-madhuranga-1302a71b7/"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://stackoverflow.com/users/17825063" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="17825063"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://kaggle.com/https://www.kaggle.com/foveromw" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
       alt="https://www.kaggle.com/foveromw"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a
     href="https://fb.com/https://www.facebook.com/kavindzfovero/"
     target="blank"
@@ -115,17 +121,19 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="https://www.facebook.com/kavindzfovero/"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://dribbble.com/https://dribbble.com/foveromw" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
       alt="https://dribbble.com/foveromw"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a
     href="https://www.behance.net/https://www.behance.net/kavindamadhura"
     target="blank"
@@ -133,17 +141,19 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
       alt="https://www.behance.net/kavindamadhura"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a href="https://medium.com/@kavindamadhuranga74" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="@kavindamadhuranga74"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
+      |    
   <a
     href="https://www.youtube.com/c/https://www.youtube.com/channel/ucccljhuqkcvtv_8s-f_r25w"
     target="blank"
@@ -151,7 +161,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="https://www.youtube.com/channel/ucccljhuqkcvtv_8s-f_r25w"
-      height="30"
-      width="40"
+      height="25"
+      width="25"
   /></a>
 </p>
