@@ -157,7 +157,6 @@
       width="25"
   /></a>
 
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 </p>
 
 
