@@ -14,7 +14,7 @@
 <hr />
 
 
-- 🔭 I’m currently working on [E - Commerce project](https://github.com/Attire-Avenue-Online-Store)
+- 🔭 I’m currently working on [Lilac E-Commerce Store](https://github.com/Attire-Avenue-Online-Store)
   
 - 🌱 I’m currently learning **MERN stack**
 
