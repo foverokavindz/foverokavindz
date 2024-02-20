@@ -25,8 +25,7 @@
 <br />
 <br />
 <p align="center" width="70%">
-        <a href="https://app.daily.dev/FoveroMW">
-        <img src="https://api.daily.dev/devcards/fb84cc9827b64d50af6a009cb841c7b0.png?r=9if" width="360" alt="Kavinda Madhuranga's Dev Card"/></a>
+      <a href="https://app.daily.dev/foveromw"><img src="https://api.daily.dev/devcards/v2/5VQRF8S2TLDEiIsJCI2aw.png?r=d9n" width="356" alt="Kavinda Madhuranga's Dev Card"/></a>
 </p>
 <br />
 <p align="center">
