@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Cover Image"/>
 
+[Portfolio↗️](https://kavinda-nine.vercel.app/)
 
 
 <h1 align="center" color="red">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40px" />, I'm Kavinda Maduranga  👈(ﾟヮﾟ👈)</h1>
@@ -17,6 +18,12 @@
     /></a>
     <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="foverokavindz"/>
   </p>
+
+  
+
+
+
+
 
 
 <hr />
