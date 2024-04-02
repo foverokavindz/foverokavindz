@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Cover Image"/>
 
-[Portfolio↗️](https://kavinda-nine.vercel.app/)
 
 
 <h1 align="center" color="red">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40px" />, I'm Kavinda Maduranga  👈(ﾟヮﾟ👈)</h1>
@@ -29,8 +28,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
 
 
-- 🔭 I’m currently working on [Lilac E-Commerce Store](https://github.com/Attire-Avenue-Online-Store)
+- 🔭 I’m currently Looking for an intern 😁✨
   
+- 🤪 Check out my [Portfolio↗️](https://kavinda-nine.vercel.app/)
+ 
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **MERN, Java, Python, C#, Js**
