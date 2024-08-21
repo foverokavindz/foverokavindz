@@ -41,7 +41,7 @@
 <br />
 <br />
 <p align="center" width="70%">
-      <a href="https://app.daily.dev/foveromw"><img src="https://api.daily.dev/devcards/v2/5VQRF8S2TLDEiIsJCI2aw.png?r=d9n" width="356" alt="Kavinda Madhuranga's Dev Card"/></a>
+  <a href="https://app.daily.dev/foveromw"><img src="https://api.daily.dev/devcards/v2/5VQRF8S2TLDEiIsJCI2aw.png?type=wide&r=799" width="652" alt="Kavinda Madhuranga's Dev Card"/></a>
 </p>
 <br />
 <p align="center">
