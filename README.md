@@ -28,11 +28,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
 
 
-- 🔭 I’m currently Looking for an intern 😁✨
+- 🔭 I’m currently Looking for an intern / Trainee / Associate Software engineering opportunity. 😁✨
   
 - 🤪 Check out my [Portfolio↗️](https://kavinda-nine.vercel.app/)
  
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **.NET and AI technologies**
 
 - 💬 Ask me about **MERN, Java, Python, C#, Js**
 
